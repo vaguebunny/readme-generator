@@ -21,6 +21,8 @@
   ## Usage
   To generate a readme file.
 
+  ![Video Walkthrough](https://app.screencastify.com/v3/watch/toQhLd0laF9SkV3IlE4B)
+
   ## License
 
   This project is licensed under the MIT license. 
